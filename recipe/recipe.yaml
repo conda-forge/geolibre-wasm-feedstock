@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.10.0"
+  version: "0.11.0"
 
 package:
   name: geolibre-wasm
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/g/geolibre-wasm/geolibre_wasm-${{ version }}.tar.gz
-  sha256: 7cb99d5fd749a62b49fc850731ea0e354ef5c1b1cc44077d395ca8603bcba4bd
+  sha256: bfce00e61c4af23ddfe9b9ad571b24611e624f622dec015eacc15c3d9d1658d1
 
 build:
   number: 0
